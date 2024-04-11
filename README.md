@@ -1,1 +1,1 @@
-# -Modeling_Earthquake_Damage
+# Modeling_Earthquake_Damage
