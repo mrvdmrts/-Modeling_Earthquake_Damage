@@ -1,8 +1,0 @@
-import pandas as pd
-
-def load_data(file_path:str) -> pd.DataFrame :
-    ''' loads data from the csv file to dataframe'''
-
-    pd.read_csv(file_path)
-
-
